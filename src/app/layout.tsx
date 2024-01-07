@@ -24,7 +24,7 @@ export default function RootLayout({
               <li className='cursor-pointer'>Work</li>
               <li className='cursor-pointer'>Contact</li>
             </ul>
-            <span className='cursor-pointer'>Dark</span>
+            <span className='cursor-pointer'>Light</span>
           </nav>
         </header>
         {children}

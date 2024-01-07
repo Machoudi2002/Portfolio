@@ -1,17 +1,25 @@
+import Link from "next/link"
+export type ProjectCardProps = {
+  title: string,
+  description: string,
+  postLink: string,
+  siteLink?: string,
+  repoLink: string
+}
 
-
-export default function ProjectCard() {
+export default function ProjectCard(props : ProjectCardProps) {
   return (
-    <article>
-        <h3 className="font-bold text-lg py-1">JobApplic - FullStack MERN</h3>
+    <article className="border border-dashed border-4 py-3 px-4">
+        <h3 className="font-bold text-lg">{props.title}</h3>
         <p className="text-sm py-1">
-            Company Career Section - Job Posting and Applying - Admin Dashboard - Editing and Deleting Existing Jobs -
-            Tracking The number of Jobs and Applications - Check The Applications inside the website...
+          {props.description}
         </p>
-        <ul className='flex flex-row gap-5 text-sm py-2'>
-            <li className='cursor-pointer'>Read More</li>
-            <li className='cursor-pointer'>Live Website</li>
-            <li className='cursor-pointer'>Github Repo</li>
+        <ul className='flex flex-row gap-5 text-sm py-2 font-bold'>
+            <li className='cursor-pointer'><Link href={props.postLink}>Read More</Link></li>
+            {
+              props.siteLink ? <li className='cursor-pointer'><a href={props.siteLink} target="_blank">Live Website</a></li> : null
+            }
+            <li className='cursor-pointer'><a href={props.repoLink} target="_blank">Github Repo</a></li>
         </ul>
     </article>
   )

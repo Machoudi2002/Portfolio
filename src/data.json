@@ -1,0 +1,37 @@
+[
+    {
+        "title": "JobApplic - FullStack MERN",
+        "description": "JobApplic is a FullStack website designed for job posting and application. It is built using React, Express, Node, MongoDB, react-router-dom, react-form-hook, and tailwindcss for styling.",
+        "postLink": "/Projects/JobApplic",
+        "siteLink": "https://jobapplic.netlify.app/",
+        "repoLink": "https://github.com/Machoudi2002/JobApplic"
+    },
+    {
+        "title": "AtlasRecipes - React & APIs",
+        "description": "Atlas Recipe is a modern and accessible recipe web app built with React.js, SCSS, and Bootstrap 5. Discover, save, and cook your favorite dishes with features like search, favorites, category filters, and a random recipe generator. Integrated with MealDB and YouTube APIs.",
+        "postLink": "/Projects/AtlasRecipes",
+        "siteLink": "https://atlasrecipes.netlify.app/",
+        "repoLink": "https://github.com/Machoudi2002/Atlas-Recipe-React-Web-App"
+    },
+    {
+        "title": "LockBox - Chrome Extenstion",
+        "description": "Lockbox Password Generator is a Chrome extension that creates secure passwords for enhanced online safety. This tool simplifies the process by generating complex passwords, customizable based on length and character types. The passwords are securely stored and can be easily copied to the clipboard for convenient use.",
+        "postLink": "/Projects/LockBox",
+        "repoLink": "https://github.com/Machoudi2002/LockBox-Password-Generator-Chrome-Extension"
+    },
+    {
+        "title": "XperienceBox - React Ecommerce",
+        "description": "XperienceBox React Ecommerce is a Web App built using ReactJS, Sass, and TypeScript. The app showcases responsive design, efficient state management, and a beautiful UI.",
+        "postLink": "/Projects/XperienceBox",
+        "siteLink": "https://xperiencebox.netlify.app/",
+        "repoLink": "https://github.com/Machoudi2002/XperienceBox-React-Ecommerce-Web-App"
+    },
+    {
+        "title": "RepublicBarberShop - Business Landing Page",
+        "description": "This is a responsive barbershop website showcasing various services offered, team members, testimonials, and a contact form. The website is built using HTML, CSS, and JavaScript, with the addition of Swipe.js for image carousel functionality and Email.js for sending emails from the contact form.",
+        "postLink": "/Projects/RepublicBarberShop",
+        "siteLink": "https://barberrepublic.netlify.app/",
+        "repoLink": "https://github.com/Machoudi2002/Republic-BarberShop"
+    }
+
+]

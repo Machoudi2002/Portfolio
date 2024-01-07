@@ -6,7 +6,7 @@ export default function Contact() {
         <p className="text-3xl">
             Let’s talk about a project, collaboration or an idea you may have...
         </p>
-        <button className="py-1 px-3 my-5 border-2 border-dashed border-white font-bold">
+        <button className="py-1 px-3 my-5 border-2 border-dashed font-bold">
             <a href="http://">Get in touch</a>
         </button>
     </section>

@@ -4,5 +4,6 @@
 ## Colors : 
 {
     White: #efefef;
-    black: #111414;
+    black: #010409;
+    softbalck: #0d1117;
 }
