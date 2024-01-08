@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { Noto_Serif } from 'next/font/google'
 import './globals.css'
+import 'tailwindcss/tailwind.css';
 import Header from '@/Components/Header'
 import Footer from '@/Components/Footer'
 
