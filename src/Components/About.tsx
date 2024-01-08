@@ -1,4 +1,4 @@
-
+import Link from "next/link"
 
 export default function About() {
   return (
@@ -9,7 +9,7 @@ export default function About() {
             I'm a Web Developer looking for full time opportunity to work with cool development teams and get even better at what I do...
         </p>
         <button className="py-1 px-3 my-2 border-2 border-dashed font-bold">
-            <a href="http://">See more</a>
+            <a href="/machoudiResume.pdf" download>Resume</a>
         </button>
     </section>
   )

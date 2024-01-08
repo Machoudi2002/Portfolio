@@ -4,16 +4,20 @@
 
 :root {
   --foreground-rgb: 1, 4, 9;
-  --background-start-rgb: 239, 239, 239;
-  --background-end-rgb: 239, 239, 239;
+  --background-start-rgb: 255,255,255;
+  --background-end-rgb: 255,255,255;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --foreground-rgb: 239, 239, 239;
+    --foreground-rgb: 255,255,255;
     --background-start-rgb: 1, 4, 9;
     --background-end-rgb: 1, 4, 9;
   }
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {

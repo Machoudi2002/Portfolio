@@ -7,6 +7,13 @@
         "repoLink": "https://github.com/Machoudi2002/JobApplic"
     },
     {
+        "title": "XperienceBox - React Ecommerce",
+        "description": "XperienceBox React Ecommerce is a Web App built using ReactJS, Sass, and TypeScript. The app showcases responsive design, efficient state management, and a beautiful UI.",
+        "postLink": "/Projects/XperienceBox",
+        "siteLink": "https://xperiencebox.netlify.app/",
+        "repoLink": "https://github.com/Machoudi2002/XperienceBox-React-Ecommerce-Web-App"
+    },
+    {
         "title": "AtlasRecipes - React & APIs",
         "description": "Atlas Recipe is a modern and accessible recipe web app built with React.js, SCSS, and Bootstrap 5. Discover, save, and cook your favorite dishes with features like search, favorites, category filters, and a random recipe generator. Integrated with MealDB and YouTube APIs.",
         "postLink": "/Projects/AtlasRecipes",
@@ -18,13 +25,6 @@
         "description": "Lockbox Password Generator is a Chrome extension that creates secure passwords for enhanced online safety. This tool simplifies the process by generating complex passwords, customizable based on length and character types. The passwords are securely stored and can be easily copied to the clipboard for convenient use.",
         "postLink": "/Projects/LockBox",
         "repoLink": "https://github.com/Machoudi2002/LockBox-Password-Generator-Chrome-Extension"
-    },
-    {
-        "title": "XperienceBox - React Ecommerce",
-        "description": "XperienceBox React Ecommerce is a Web App built using ReactJS, Sass, and TypeScript. The app showcases responsive design, efficient state management, and a beautiful UI.",
-        "postLink": "/Projects/XperienceBox",
-        "siteLink": "https://xperiencebox.netlify.app/",
-        "repoLink": "https://github.com/Machoudi2002/XperienceBox-React-Ecommerce-Web-App"
     },
     {
         "title": "RepublicBarberShop - Business Landing Page",
