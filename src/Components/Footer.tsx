@@ -6,8 +6,8 @@ export default function Footer() {
           <nav>
               <p className='py-1'>machoudi@proton.me</p>
               <ul className='flex flex-row gap-5'>
-                <li className='cursor-pointer'><a href="https://www.linkedin.com/in/machoudi/">Linkedin</a></li>
-                <li className='cursor-pointer'><a href="https://github.com/Machoudi2002">Github</a></li>
+                <li className='cursor-pointer'><a target="_blank" href="https://www.linkedin.com/in/machoudi/">Linkedin</a></li>
+                <li className='cursor-pointer'><a target="_blank" href="https://github.com/Machoudi2002">Github</a></li>
               </ul>
           </nav>
           <p className='py-1'>© 2024 All Rights Reserved. Design & Coded with ❤️️</p>
