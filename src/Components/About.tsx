@@ -8,7 +8,7 @@ export default function About() {
         <p className="text-sm py-3">
             I'm a Web Developer looking for full time opportunity to work with cool development teams and get even better at what I do...
         </p>
-        <button className="py-1 px-3 my-2 border-2 border-dashed font-bold">
+        <button className="py-1 px-3 my-2 font-bold border rounded dark:bg-softBlack">
             <a href="/machoudiResume.pdf" download>Resume</a>
         </button>
     </section>

@@ -1,11 +1,11 @@
 import 'tailwindcss/tailwind.css';
 import type { Metadata } from 'next'
-import { Noto_Serif } from 'next/font/google'
+import { Noto_Sans } from 'next/font/google'
 import Header from '@/Components/Header'
 import Footer from '@/Components/Footer'
 import './globals.css'
 
-const font = Noto_Serif({ subsets: ['latin'] })
+const font = Noto_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Machoudi Personal Portfolio',
